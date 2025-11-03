@@ -312,11 +312,17 @@
 
 
 FOR MORE DETAILED REFERENCES : 
+
 [Java Stream Package](https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/stream/Stream.html)
+
 [Java Primitive Streams](https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/stream/IntStream.html)
+
 [Stream Collector ](https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/stream/Collectors.html)
+
 [Stream Gatherer Docs](https://www.baeldung.com/java-stream-gatherers)
+
 [Easy Tutorial - Javabrahman](https://www.javabrahman.com/java-8/java-8-streams-api-tutorial-with-examples/)
+
 [dev.java - Stream tutorial](https://dev.java/learn/api/streams/)
 
 
